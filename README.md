@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Meu nome é Mizael Marques, atualmente estou aprendendo e criando projetos html, css, e inicializando javascript e React
-<br>
+Meu nome é Mizael Marques, atualmente estou aprendendo e criando projetos html, css, javascript e iniciando node.js e React
+<br> 
 <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br>
